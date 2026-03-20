@@ -156,7 +156,7 @@ Este projeto foi construído inteiramente com **Claude Sonnet** como par de prog
 
 ## 🎨 Design
 
-**Paleta:**   
+**Paleta:** Prumo Performance  
 - Primária: `#B0AFFF` (lavanda)  
 - Escura: `#0A0A14`  
 - Superfície: `#F4F4FB`  
@@ -164,3 +164,4 @@ Este projeto foi construído inteiramente com **Claude Sonnet** como par de prog
 
 **Tipografia:** Plus Jakarta Sans + DM Mono  
 **Charts:** Chart.js 4.4.1
+
