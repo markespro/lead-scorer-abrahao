@@ -25,8 +25,8 @@ npx serve .
 ```
 Acesse: `http://localhost:8080`
 
-### Opção 3: URL pública (Replit)
-> Em breve
+### Opção 3: URL pública (Netlify) — recomendada
+> 🌐 **[https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app/](https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app/)**
 
 ---
 
@@ -103,6 +103,28 @@ Faixa: $55 (MG Special) → $26.768 (GTK 500)
 
 ---
 
+## 💡 Recomendações
+
+### Para a Head de RevOps
+
+**1. Rebalancear a distribuição de leads por vendedor**
+O pipeline atual está concentrado: Darcel Schlecht tem $656K em pipeline enquanto o menor vendedor tem $80K — uma diferença de 8x. Vendedores sobrecarregados tendem a priorizar menos e deixar deals esfriarem. Usar o dashboard para identificar desequilíbrios e redistribuir novos leads com base na capacidade real de cada agente.
+
+**2. Priorização estratégica de leads por score + valor**
+Abandonar o "feeling" e adotar o score como critério objetivo de priorização. Deals com score ≥70 devem receber contato em até 24h. Deals com score <40 + badge esfriando devem ser descartados ou transferidos — liberar agenda para oportunidades reais. Estimativa: focar nos 138 deals de score alto representa $897K em pipeline de alta probabilidade.
+
+**3. Ritual semanal de pipeline review**
+Usar o filtro por Manager toda segunda-feira como pauta do 1:1 — o gráfico "$ em risco por vendedor" identifica em 30 segundos quem precisa de atenção e qual deal está esfriando.
+
+**4. Atacar os estagnados em Engaging**
+779 deals estagnados representam $2.06M parado no mesmo stage há mais de 165 dias. Uma campanha de reativação focada nesses deals — com script específico para deals parados — pode converter parte desse valor antes de dar baixa.
+
+**5. Usar win rate por vendedor para coaching direcionado**
+A diferença entre o melhor (Hayden Neloms, 70.4%) e o pior (Lajuana Vencill, 55.0%) vendedor é 15.4pp de win rate. Com o mesmo volume de pipeline, isso representa uma diferença significativa de receita. Identificar e replicar as práticas dos top performers é a alavanca mais rápida de crescimento sem aumentar headcount.
+
+**6. Próximo passo técnico**
+Integrar com o CRM em tempo real para eliminar exportação manual de CSVs. Com dados ao vivo, o score reflete o pipeline do dia — não de Dez/2017.
+
 ## ⚠️ Limitações
 
 | Limitação | Impacto | O que precisaria para escalar |
@@ -134,7 +156,7 @@ Este projeto foi construído inteiramente com **Claude Sonnet** como par de prog
 
 ## 🎨 Design
 
-**Paleta:**  
+**Paleta:**   
 - Primária: `#B0AFFF` (lavanda)  
 - Escura: `#0A0A14`  
 - Superfície: `#F4F4FB`  
