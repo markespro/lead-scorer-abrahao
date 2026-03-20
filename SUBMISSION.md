@@ -16,7 +16,7 @@ Construí um dashboard de priorização de pipeline de vendas em HTML/JS vanilla
 
 ## Solução
 
-**Live:** https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app
+**Live:** https://lead-scorer-abrahao.netlify.app
 **GitHub:** https://github.com/markespro/lead-scorer-abrahao
 
 ### Abordagem
@@ -130,7 +130,7 @@ Próximo passo técnico para eliminar exportação manual de CSVs e ter o score 
 
 - [x] **Process Log completo (Notion)** — [https://silky-tapir-21c.notion.site/process-log-abrahao](https://silky-tapir-21c.notion.site/process-log-abrahao)
 - [x] **Git history** — [https://github.com/markespro/lead-scorer-abrahao/commits/main](https://github.com/markespro/lead-scorer-abrahao/commits/main)
-- [x] **Aplicação ao vivo** — [https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app](https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app)
+- [x] **Aplicação ao vivo** — [https://lead-scorer-abrahao.netlify.app](https://lead-scorer-abrahao.netlify.app)
 
 ---
 
