@@ -156,7 +156,7 @@ Este projeto foi construído inteiramente com **Claude Sonnet** como par de prog
 
 ## 🎨 Design
 
-**Paleta:** Prumo Performance  
+**Paleta:** 
 - Primária: `#B0AFFF` (lavanda)  
 - Escura: `#0A0A14`  
 - Superfície: `#F4F4FB`  
