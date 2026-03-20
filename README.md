@@ -26,7 +26,7 @@ npx serve .
 Acesse: `http://localhost:8080`
 
 ### Opção 3: URL pública (Netlify) — recomendada
-> 🌐 **[https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app/](https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app/)**
+> 🌐 **[https://lead-scorer-abrahao.netlify.app/](https://lead-scorer-abrahao.netlify.app/)**
 
 ---
 
@@ -156,7 +156,7 @@ Este projeto foi construído inteiramente com **Claude Sonnet** como par de prog
 
 ## 🎨 Design
 
-**Paleta:** 
+**Paleta:** Prumo Performance  
 - Primária: `#B0AFFF` (lavanda)  
 - Escura: `#0A0A14`  
 - Superfície: `#F4F4FB`  
@@ -164,4 +164,3 @@ Este projeto foi construído inteiramente com **Claude Sonnet** como par de prog
 
 **Tipografia:** Plus Jakarta Sans + DM Mono  
 **Charts:** Chart.js 4.4.1
-
