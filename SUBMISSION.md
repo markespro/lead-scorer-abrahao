@@ -123,15 +123,14 @@ Próximo passo técnico para eliminar exportação manual de CSVs e ter o score 
 - **KPIs clicáveis com drill-down** — surgiu da observação de como vendedores realmente usam dashboards. Clicar num número e ver os deals por trás é o comportamento natural.
 - **Decisão de incluir Won/Lost** — a IA estava focada só no pipeline aberto. Percebi que o histórico de fechamentos era essencial para o Manager entender performance real da equipe.
 - **Referências visuais externas** — trouxe dois dashboards de referência (financeiro + sales report) para guiar o redesign. A IA executou, mas a curadoria foi minha.
-- **Paleta Prumo Performance** — identidade visual da minha agência aplicada ao projeto. Personalização que a IA não faria sozinha.
 
 ---
 
 ## Evidências
 
-- [x] Screenshots das conversas com IA — Notion (link em breve)
-- [x] Git history — https://github.com/markespro/lead-scorer-abrahao/commits/main
-- [x] Aplicação ao vivo — https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app
+- [x] **Process Log completo (Notion)** — [https://silky-tapir-21c.notion.site/process-log-abrahao](https://silky-tapir-21c.notion.site/process-log-abrahao)
+- [x] **Git history** — [https://github.com/markespro/lead-scorer-abrahao/commits/main](https://github.com/markespro/lead-scorer-abrahao/commits/main)
+- [x] **Aplicação ao vivo** — [https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app](https://69bdacf5f960f6a46e165ae5--lead-score-g4.netlify.app)
 
 ---
 
